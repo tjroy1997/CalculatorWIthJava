@@ -17,6 +17,7 @@ public class Calculator
         System.out.println("Subtraction of the two number is "+subtraction);
         System.out.println("Multiplication of the two number is "+multiplication);
         System.out.println("Division of the two number is "+division);
+        System.out.println("Thanks for using the program");
 
 
     }
